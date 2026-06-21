@@ -1,0 +1,8 @@
+{
+  "name": "Attendance System",
+  "description": "An elegant attendance tracking system that integrates with Google Sheets to log student attendance and supports local credential sign-in and Google Sign-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
